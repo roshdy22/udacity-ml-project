@@ -1,5 +1,7 @@
-<include a CircleCI status badge, here>
 
+.. image:: https://circleci.com/gh/roshdy22/udacity-ml-project/tree/master.svg?style=svg
+        :target: https://circleci.com/gh/roshdy22/udacity-ml-project/tree/master
+        
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
