@@ -4,7 +4,6 @@ Flag --generator has been deprecated, has no effect and will be removed in the f
 Error from server (AlreadyExists): pods "devops-ml-prediction" already exists
 NAMESPACE     NAME                                   READY   STATUS    RESTARTS   AGE
 default       devops-ml-prediction                   1/1     Running   0          4m2s
-default       flaskskeardemo                         1/1     Running   2          24h
 default       kubernetes-bootcamp-57978f5f5d-v4jtb   1/1     Running   3          3d21h
 kube-system   coredns-74ff55c5b-cx4rh                1/1     Running   4          4d16h
 kube-system   etcd-minikube                          1/1     Running   4          4d16h
