@@ -1,6 +1,5 @@
+[![CircleCI](https://circleci.com/gh/roshdy22/udacity-ml-project/tree/master.svg?style=svg)](https://circleci.com/gh/roshdy22/udacity-ml-project/tree/master)
 
-.. image:: https://circleci.com/gh/roshdy22/udacity-ml-project/tree/master.svg?style=svg
-        :target: https://circleci.com/gh/roshdy22/udacity-ml-project/tree/master
         
 ## Project Overview
 
