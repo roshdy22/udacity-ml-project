@@ -1,3 +1,13 @@
+./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
+
 
 project-ml-microservice-kubernetes$ ./run_kubernetes.sh
 Flag --generator has been deprecated, has no effect and will be removed in the future.
