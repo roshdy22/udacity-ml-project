@@ -16,7 +16,7 @@ In this project, you will apply the skills you have acquired in this course to o
 * Upload a complete Github repo with CircleCI to indicate that your code has been tested
 
 
-## Setup the Environment
+## Setup the Environment test
 
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
